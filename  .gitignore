@@ -1,0 +1,18 @@
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Brain/Session Data
+brain/
+.gemini/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Project Specific
+node_modules/
+dist/
+build/
